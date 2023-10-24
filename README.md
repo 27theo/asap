@@ -13,4 +13,4 @@ I was inspired to take up the project by the blogs and personal websites of the 
 
 The motivation behind this project is twofold:
  1. To create a tool I can use to generate my own website ([theoaddis.com](https://theoaddis.com)).
- 2. To make my GitHub more interesting to viewers and appealing to employers.
+ 2. To bolster my Github.
